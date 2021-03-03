@@ -1,5 +1,11 @@
 # music-composer
 
+## Dependencies
+ - Keras
+ - Music21
+ - Python Midi
+
+
 ## Project Setup
 ### Anaconda virtual environment setup
 - Create anaconda virtual environment
