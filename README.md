@@ -1,4 +1,4 @@
-# music-composer
+# music-composition
 
 ## Dependencies
  - Keras
