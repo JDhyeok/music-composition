@@ -3,8 +3,6 @@ This is a deep learning project for music generation using LSTM with Keras, Musi
 ## Dependencies
  - Keras
  - Music21
- - Midi
-
 
 ## Project Setup
 ### Anaconda virtual environment setup
