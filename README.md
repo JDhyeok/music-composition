@@ -1,21 +1,14 @@
 # music-composition
-This is a deep learning project for music generation using LSTM with Keras, Music21 and MIDI.
+This is a deep learning project for music generation using LSTM with Keras, Music21.
 ## Dependencies
  - Keras
  - Music21
 
-## Project Setup
-### Anaconda virtual environment setup
-- Create anaconda virtual environment
-  ```shell
-   $ conda create -n venv
-   $ conda activate venv
-   (venv) $
-  ```
-- install requirements
-  ```shell
-   (venv) $ conda install --file requirements.txt
-  ```
+## Features from MIDI file
+- Note: The sound produced by a single key called a note
+- Chords: The sound produced by 2 or more keys simultaenously is called chord
+- Octave: A repeated pattern is called an octave. Each octave contains 7 white and 5 black keys
+
 
 ## How to generate music
 TBA
